@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Google Keep clone with React**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Next JS, Machine Learning**
 
 - 👯 I’m looking to collaborate on **a making a Quora-like website**
 
