@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshal2502&show_icons=true&locale=en&layout=compact" alt="harshaldevmurari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshal2502&show_icons=true&locale=en" alt="harshaldevmurari" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal2502&label=Profile%20views&color=0e75b6&style=flat" alt="harshal2502" /> </p>
