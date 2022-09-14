@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **making a Quora-like website**
 
-- 💬 Ask me about **MERN Stack Web Development**
-
 - 📫 How to reach me **devmurariharshal2002@gmail.com**
 
 - ⚡ Fun fact **I am an ambidextrous person :)**
