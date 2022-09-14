@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next JS and Machine Learning**
 
-- 👯 I’m looking to collaborate on **making a Quora-like website**
+- 👯 I’m looking to collaborate on **making a Quora Clone**
 
 - 📫 How to reach me **devmurariharshal2002@gmail.com**
 
