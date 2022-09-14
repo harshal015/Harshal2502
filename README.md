@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **devmurariharshal2002@gmail.com**
 
-- ⚡ Fun fact **I am an ambidextrous person :)**
+- ⚡ Fun fact **I'm a ambidextrous person :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
