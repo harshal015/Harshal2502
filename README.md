@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Quora Clone with MERN Stack**
 
-- 🌱 I’m currently learning **Next JS and Machine Learning**
+- 👀 Interested in anything which is innovative
 
 - 📫 How to reach me **devmurariharshal2002@gmail.com**
 
