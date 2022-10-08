@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Quora Clone with MERN Stack**
 
-- 👀 I am interested in **anything Fresh and Creative** 
+- 👀 I'm interested in **anything Fresh and Creative** 
 
 - 📫 How to reach me **devmurariharshal2002@gmail.com**
 
