@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshal Devmurari</h1>
 <h3 align="center">A Passionate developer from India</h3>
 
-- 🔭 I’m currently working on **a Quora Clone with MERN Stack**
+- 🔭 I’m currently working on **something cool😉**
 
 - 👀 I'm interested in **anything Fresh and Creative** 
 
