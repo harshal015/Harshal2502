@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React JS**
 
-- I'm a interned at **IIT Bombay for some Govt. projects ** 
+- I interned at **IIT Bombay for some Govt. projects** 
 
 - 📫 How to reach me **devmurariharshal2002@gmail.com**
 
