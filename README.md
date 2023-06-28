@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on **something cool😉**
 
 - 👀 I'm interested in **anything Fresh and Creative**
+  
+- ✨ I interned as a SDE at **IIT Bombay for some Govt. projects** 
 
 - 💬 Ask me about **React JS**
-
-- 😍 I interned as a SDE at **IIT Bombay for some Govt. projects** 
 
 - 📫 How to reach me **devmurariharshal2002@gmail.com**
 
