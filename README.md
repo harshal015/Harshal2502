@@ -7,8 +7,6 @@
   
 - ✨ I interned as a SDE at **IIT Bombay for some Govt. projects** 
 
-- 💬 Ask me about **React JS**
-
 - 📫 How to reach me **devmurariharshal2002@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
